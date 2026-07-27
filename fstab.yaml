@@ -3,3 +3,7 @@ mountpoints:
     url: "https://author-p149556-e1749225.adobeaemcloud.com/bin/franklin.delivery/hybler-c/eds-ue-avg-cenek/main"
     type: "markup"
     suffix: ".html"
+  /da-pages:
+    url: "https://content.da.live/hybler-c/eds-ue-avg-cenek/da-pages"
+    type: "markup"
+    suffix: ".html"
