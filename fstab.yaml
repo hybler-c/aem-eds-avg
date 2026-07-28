@@ -4,6 +4,6 @@ mountpoints:
     type: "markup"
     suffix: ".html"
   /da-pages:
-    url: "https://content.da.live/hybler-c/eds-ue-avg-cenek/da-pages"
+    url: "https://content.da.live/hybler-c/aem-eds-avg/da-pages"
     type: "markup"
     suffix: ".html"
