@@ -1,6 +1,6 @@
 mountpoints:
   /:
-    url: "https://author-p149556-e1749225.adobeaemcloud.com/bin/franklin.delivery/hybler-c/eds-ue-avg-cenek/main"
+    url: "https://author-p149556-e1749225.adobeaemcloud.com/bin/franklin.delivery/hybler-c/aem-eds-avg/main"
     type: "markup"
     suffix: ".html"
   /da-pages:
